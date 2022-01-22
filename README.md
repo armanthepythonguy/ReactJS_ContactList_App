@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# REACTJS Contact List App
+##As of now it only have add and delete functions. Will add different features later.
+![image](https://user-images.githubusercontent.com/66505181/150649089-4ea73860-ceab-4161-be93-c22c9894fd2e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
